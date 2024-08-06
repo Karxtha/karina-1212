@@ -1,0 +1,16 @@
+cat>>hello world [D[D[D[D[D[D[D[D[D[D[D[D[D[D  [C[C[C[C[C[C[C[C[C[C[C>>hello world
+
+
+
+
+[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+git status
+
+
+
+
+
+
+
+
+
